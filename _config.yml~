@@ -20,8 +20,6 @@ social:
       link: "https://twitter.com/fisholito"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/jfcarvalho"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
       link: "https://github.com/jfsc"
 
@@ -29,10 +27,6 @@ share:
   twitter_username: fisholito
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
     - text: XML Feed
       url: /feed.xml
 
