@@ -3,8 +3,8 @@ description: Enabling better software delivery
 author: Jose Fernando
 github: https://github.com/jfsc
 about: DevOps Engineer, Part-time researcher, Christ evangelist.
-disqus_shortname: softwarelifecyclethoughts
-google_analytics: UA-XXXXXXXX-Y
+disqus_shortname: https-jfsc-github-io 
+google_analytics: UA-99319184-1
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
