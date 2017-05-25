@@ -8,7 +8,14 @@ categories: [devops, teaching]
 
 In order to provide some toughts about DevOps and mitigate the DevOps bubble, I`ve asked to my friend and research advisor [@vinicius3w](https://twitter.com/vinicius3w) if I could present some results of my research by teaching DevOps in one of his disciplines at [UFPE](http://www2.cin.ufpe.br/site/index.php). The presented proposal was about Cloud+DevOps, which has a high level of sinergy from my stading point.
 
-He did like and has opened the doors. Thus, here is the First Lesson: [01DevOps](http://jfsc.github.io/static/docs/01devops.pdf)
+He did like and has opened the doors. Thus, here is the Lessons: 
+* [01DevOps](http://jfsc.github.io/static/docs/01devops.pdf)
+* [02DevOps](http://jfsc.github.io/static/docs/02devops.pdf)
+* [03DevOps](http://jfsc.github.io/static/docs/03devops.pdf)
+* [04DevOps](http://jfsc.github.io/static/docs/04devops.pdf)
+
+later, a interesting project: 
+* [IF1006-project](http://jfsc.github.io/static/docs/IF1006-project.pdf)
 
 ps. feel free to send feedbacks
 
