@@ -14,7 +14,7 @@ He did like and has opened the doors. Thus, here is the Lessons:
 * [03DevOps](http://jfsc.github.io/static/docs/03devops.pdf)
 * [04DevOps](http://jfsc.github.io/static/docs/04devops.pdf)
 
-later, a interesting project: 
+Finally, a interesting project: 
 * [IF1006-project](http://jfsc.github.io/static/docs/IF1006-project.pdf)
 
 ps. feel free to send feedbacks
