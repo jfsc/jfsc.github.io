@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teaching to mitigate DevOps bubble"
+title:  "Teaching to mitigate the DevOps bubble"
 date:   2017-05-17 03:43:45 +0700
 categories: [devops, teaching]
 ---
