@@ -14,7 +14,9 @@ He did like and has opened the doors. Thus, here is the Lessons:
 * [03DevOps-agile](http://jfsc.github.io/static/docs/03devops.pdf)
 * [04DevOps-pipeline](http://jfsc.github.io/static/docs/04devops.pdf)
 
-The contribution of my invited colleges Jessica and Marina: [Invited - Testing](http://jfsc.github.io/static/docs/invitedcolleges.pdf) 
+The contribution of my invited colleges Jessica and Marina: 
+* [Invited - Testing](http://jfsc.github.io/static/docs/invitedcolleges.pdf) 
+
 Finally, a interesting project: 
 * [IF1006-project](http://jfsc.github.io/static/docs/IF1006-project.pdf)
 
