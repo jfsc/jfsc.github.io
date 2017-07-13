@@ -17,7 +17,12 @@ He did like and has opened the doors. Thus, here is the Lessons:
 The contribution of my invited colleges Jessica and Marina: 
 * [Invited - Testing](http://jfsc.github.io/static/docs/invitedcolleges.pdf) 
 
-Finally, a interesting project: 
+Finally, an interesting project: 
 * [IF1006-project](http://jfsc.github.io/static/docs/IF1006-project.pdf)
+
+And, the artifacts:
+* [guedesbgeorge](https://github.com/guedesbgeorge/IF1006-Projeto)
+* [thiagoaquino](https://github.com/ThiagoAquino/IF1006?files=1)
+* [jbsn](https://github.com/jbsn94/if1006)
 
 
