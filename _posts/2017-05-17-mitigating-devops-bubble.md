@@ -26,4 +26,5 @@ And, the artifacts:
 * [jbsn](https://github.com/jbsn94/if1006)
 
 __Edited 09.20.2017__: The success of this contribution has promoted its [second edition](https://github.com/vinicius3w/if1004-DevOps).
-I want to thank my advisor for the opportunity and their students which are making our classes great time-boxes to learn.  
+I want to thank my advisor for the opportunity and their students which are making our classes great time-boxes to learn. 
+Thank you God. 

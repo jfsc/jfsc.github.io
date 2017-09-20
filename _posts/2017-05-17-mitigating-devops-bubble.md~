@@ -25,5 +25,5 @@ And, the artifacts:
 * [thiagoaquino](https://github.com/ThiagoAquino/IF1006?files=1)
 * [jbsn](https://github.com/jbsn94/if1006)
 
-__Edited 09.20.2017__: The success of discipline has promoted its [second edition](https://github.com/vinicius3w/if1004-DevOps).
+__Edited 09.20.2017__: The success of this contribution has promoted its [second edition](https://github.com/vinicius3w/if1004-DevOps).
 I want to thank my advisor for the opportunity and their students which are making our classes great time-boxes to learn.  
