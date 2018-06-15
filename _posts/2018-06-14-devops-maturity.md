@@ -6,6 +6,6 @@ categories: [devops, dora]
 ---
 
 It's wonderful how @nicolefv has presented the maturity of an organization on #VelocityConf.
-[![@nicolefv on Secrets and Suprises of High Performance: What the data says])(images/nicolevelocity.png)](https://www.slideshare.net/nicolefv/secrets-and-surprises-of-high-performance-what-the-data-says)
+[![@nicolefv on Secrets and Suprises of High Performance: What the data says])(images/nicolevelocity.PNG)](https://www.slideshare.net/nicolefv/secrets-and-surprises-of-high-performance-what-the-data-says)
 
 
