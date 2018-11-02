@@ -2,7 +2,7 @@
 layout: post
 title:  "Grounded Theory"
 date:   2018-11-02 10:27:45 +0700
-categories: [research, theory]
+categories: [research, theory, software engineering]
 ---
 
 ### What is a theory?
