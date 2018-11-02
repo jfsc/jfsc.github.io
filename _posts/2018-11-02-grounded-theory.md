@@ -6,7 +6,7 @@ categories: [research, theory]
 ---
 
 ### What is a theory?
-Acording to Merriam-Webster dictionary, a Theory is "a plausible or scientifically acceptable general principle or body of principles offered to explain phenomena"
+According to Merriam-Webster dictionary, a Theory is "a plausible or scientifically acceptable general principle or body of principles offered to explain phenomena"
 
 ### Why is it so important?
 "The theory becomes a “lens” through which the world is observed. This happens whether or not theories are explicitly acknowledged, because real-world phenomena are simply too rich and complex"[2]
